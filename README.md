@@ -1,0 +1,1 @@
+A full-stack movie ticket booking web application built with react featuring real time seat selection and secure checkout. A Scalable online theater ticket reservation platform with an interactive seating layout, user authentication and admin dashboard.
